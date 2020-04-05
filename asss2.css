@@ -1,0 +1,23 @@
+td
+{
+	font-weight:bold;
+	color:black;
+}
+body
+{
+	background-image:url(123.jpg);
+}
+#white
+{
+	color:blue;
+}
+table
+{
+	text-align:center;
+	border:1px solid grey;
+	margin-left:300px;
+	margin-top:125px;
+	border-color:pink;
+	border-width:3px;
+	background-image:url(blue.jpg);
+}

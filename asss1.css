@@ -1,0 +1,22 @@
+table
+{
+	text-align:center;
+	border:1px solid grey;
+	margin-left:300px;
+	margin-top:125px;
+	border-color:pink;
+	border-width:3px;
+	background-image:url(pink.jpg);
+}
+body
+{
+	background-image:url(grey.jpg);
+}
+#white
+{
+	color:white;
+}
+td
+{
+	font-weight:bold;
+}

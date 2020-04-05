@@ -1,0 +1,28 @@
+table
+{
+	text-align:center;
+	border:1px solid grey;
+	margin-left:400px;
+	margin-top:200px;
+	border-color:black;
+	border-width:3px;
+	background-color:#924206;
+}
+body
+{
+	background-image:url(grey1.jpeg);
+}
+#white
+{
+	color:white;
+}
+td
+{
+	font-weight:bold;
+	color:white;
+}
+th
+{
+	color:white;
+	font-weight:bold;
+}
